@@ -62,6 +62,10 @@
 
 يمكنك الاطلاع على مصدر آخر للأذكار من خلال [هذا الرابط](https://www.hisnmuslim.com/api/ar/27.json).
 
+## جميع ال apis 
+
+يمكنك الاطلاع على مصدر جميع ال apis مع ال doc من خلال [هذا الرابط](https://documenter.getpostman.com/view/7929737/TzkyMfPc).
+
 
 
 ## راديو ل 18 قارئ واذاعات القرأن الكريم
